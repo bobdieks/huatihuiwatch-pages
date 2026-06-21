@@ -1,2 +1,14 @@
 # huatihuiwatch-pages
-HTML page archive and documentation
+
+页面内容归档仓库
+
+该仓库用于页面文件整理，不针对单个页面做额外说明。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
